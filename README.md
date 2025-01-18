@@ -37,6 +37,8 @@ Copy AcivityId and TemplateId.
 
 ![image alt](https://github.com/VdolecekMax/BotterCraft/blob/main/img/WhatWeWant.png?raw=true)
 
+### Post Data
+
 Start **BotterCraft**:
 - Adjust your bots
 - Paste AcivityId
