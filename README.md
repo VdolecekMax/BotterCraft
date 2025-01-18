@@ -54,7 +54,7 @@ Press enter and wait for the results.
 
 ![image alt](https://github.com/VdolecekMax/BotterCraft/blob/main/img/Result.png?raw=true)
 
-### Results
+## Results
 
 It works🤩🤯! (again :))
 
