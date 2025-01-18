@@ -25,15 +25,15 @@ Then click on "Network".
 
 ![image atl](https://github.com/VdolecekMax/BotterCraft/blob/main/img/OpenNetworkTab.jpg?raw=true)
 
-1. Now finish the game and get to the WordWall leadeboard to find "addentry".
+Now finish the game and get to the WordWall leadeboard to find "addentry".
 
 ![image alt](https://github.com/VdolecekMax/BotterCraft/blob/main/img/Addentry.jpg?raw=true)
 
-2. Click on "Payload".
+Click on "Payload".
 
 ![image alt](https://github.com/VdolecekMax/BotterCraft/blob/main/img/RealNavBar.png?raw=true)
 
-3. Copy AcivityId and TemplateId.
+Copy AcivityId and TemplateId.
 
 ![image alt](https://github.com/VdolecekMax/BotterCraft/blob/main/img/WhatWeWant.png?raw=true)
 
@@ -50,7 +50,7 @@ Start **BotterCraft**:
 ![image alt](https://github.com/VdolecekMax/BotterCraft/blob/main/img/TemplayteIDenter.png?raw=true)
 
 
-1. Press enter and wait for the results.
+Press enter and wait for the results.
 
 ![image alt](https://github.com/VdolecekMax/BotterCraft/blob/main/img/Result.png?raw=true)
 
